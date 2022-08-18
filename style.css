@@ -1,0 +1,52 @@
+
+.travel_mainDiv
+{
+    border: 1px solid rgb(11, 11, 245);
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(81,0,255,1) 100%);
+}
+.travel_mainDiv img
+{
+  width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin: 20px;
+}
+
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(11, 11, 245);
+    background: linear-gradient(90deg, rgba(246,0,141,1) 0%, rgba(87,11,230,1) 50%, rgba(7,30,105,1) 100%);
+    color:lavender;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: orange;
+}
+
+
+.book 
+{
+    margin-bottom: 20px;
+}
+
+#Contacto iframe
+{
+    width: 100%;
+}
+
+
+
